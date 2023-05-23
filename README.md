@@ -1,2 +1,2 @@
 # firebase-demo-sgss
-Demo para Sistema General de Seguridad Social en Colombia
+Demo para simular el Sistema General de Seguridad Social en Colombia.
