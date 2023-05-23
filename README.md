@@ -1,7 +1,4 @@
-# firebase-demo-sgss
-
-
-# Título del Proyecto
+# Demo SGSS
 
 Demo para simular el Sistema General de Seguridad Social en Colombia.
 
